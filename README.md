@@ -1,8 +1,8 @@
-<h3 align="center"> Olá, eu sou Matheus Melo! Seja bem-vindo ao meu repositório!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
+<h3 align="center"> Seja bem-vindo ao meu repositório!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-  - 💻 Cientista de Dados Júnior e Analista de Dados Júnior.
+  - 💻 Entusiasta na área de Ciência de Dados e Análise de Dados.
   - 👨‍🎓 Bacharel em Ciência da Computação pelo Cefet/RJ.
   - 🔭 Aplico técnicas de modelagem descritiva e preditiva, como: Classificação, Regressão, Clusterização e Análise Exploratória de Dados.
   - 📚 Conhecimento técnico com Python, Machine Learning, Power BI, SQL, Excel e Docker.
