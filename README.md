@@ -3,7 +3,7 @@
 <h2 align="left">🗨 Sobre mim:</h2>
 
   - 💻 Entusiasta na área de Ciência de Dados e Análise de Dados.
-  - 👨‍🎓 Bacharel em Ciência da Computação pelo Cefet/RJ.
+  - 👨‍🎓 Mestrando em Ciência de Dados e Bacharel em Ciência da Computação pelo Cefet/RJ.
   - 🔭 Aplico técnicas de modelagem descritiva e preditiva, como: Classificação, Regressão, Clusterização e Análise Exploratória de Dados.
   - 📚 Conhecimento técnico com Python, Machine Learning, Power BI, SQL, Excel e Docker.
   - 🌟 Linguagem mais utilizada: Python e Jupyter Notebooks.
