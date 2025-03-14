@@ -6,7 +6,7 @@
   - 👨‍🎓 Mestrando em Ciência de Dados e Bacharel em Ciência da Computação pelo Cefet/RJ.
   - 🔭 Aplico técnicas de modelagem descritiva e preditiva, como: Classificação, Regressão, Clusterização e Análise Exploratória de Dados.
   - 📚 Conhecimento técnico com Python, Machine Learning, Power BI, SQL, Excel e Docker.
-  - 🌟 Linguagem mais utilizada: Python e Jupyter Notebooks.
+  - 🌟 Linguagens mais utilizadas: Python e SQL.
 
 <h2 align="left">🌐 Redes Sociais</h2>
 <a href="https://www.linkedin.com/in/matheussmelo1702/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
