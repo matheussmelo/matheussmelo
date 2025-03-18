@@ -9,6 +9,7 @@
   - 🌟 Linguagens mais utilizadas: Python e SQL.
 
 <h2 align="left">🗨 About Me:</h2>
+
   - 💻 Enthusiast in Data Science and Analytics.
   - 👨‍🎓 MSc Student in Data Science and Bachelor's degree in Computer Science from CEFET/RJ.
   - 🔭 I apply descriptive and predictive modeling techniques such as Classification, Regression, Clustering, and Exploratory Data Analysis.
